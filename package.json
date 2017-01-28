@@ -2,7 +2,7 @@
   "name": "sysco-assist",
   "version": "1.0.0",
   "description": "Sysco Assist bot poc",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/nicholas-b-carter/sysco-assist/issues"
   },
-  "homepage": "https://github.com/nicholas-b-carter/sysco-assist#readme"
+  "homepage": "https://github.com/nicholas-b-carter/sysco-assist#readme",
+  "dependencies": {
+    "api-ai-recognizer": "^1.0.1",
+    "botbuilder": "^3.5.4",
+    "request": "^2.79.0",
+    "restify": "^4.3.0"
+  }
 }
