@@ -1,0 +1,19 @@
+{
+  "name": "sysco-assist",
+  "version": "1.0.0",
+  "description": "Sysco Assist bot poc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas-b-carter/sysco-assist.git"
+  },
+  "author": "Nick Carter <nicholas.b.carter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholas-b-carter/sysco-assist/issues"
+  },
+  "homepage": "https://github.com/nicholas-b-carter/sysco-assist#readme"
+}
